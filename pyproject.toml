@@ -1,9 +1,9 @@
 [project]
-name = "2025-p1-tianqiqiong"
+name = "practice01"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "TnK_Sora",email = "30697216+TianqiQiong@users.noreply.github.com"}
+    {name = "TianqiQiong"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
